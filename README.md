@@ -14,7 +14,7 @@
 
 ## Stats:
 <img align="right" width=50% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jessyca-ferreira"/>
-<img align="justify" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true"/>
+<img align="justify" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyca-ferreira&hide_progress=true"/>
 
 
 <details>
