@@ -6,7 +6,14 @@
 
 <img align="right" alt="sidebar-img" height="200" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-simple-flower-outline_23-2149369309.jpg?w=740&t=st=1688598354~exp=1688598954~hmac=4222d402a27cfea55b2c99965909e76260471668736d9d128a5634aeae13add9">
 
-<p align="justify">Desenvolvedora de Recife, Pernambuco, atualmente cursando a graduação de Ciência da Computação na UFPE. Sou Jessyca, tenho 18 anos e minha paixão por tecnologia começou aos 11 anos com a descoberta de HTML/CSS, continuou na minha adolescência quando cursei Desenvolvimento de Sistemas integrado ao ensino médio e hoje é firmada cada vez mais ao passar dos dias. Além da programação, tenho como hobbies o desenho, a literatura e o crochê.</p>
+<p align="justify">Desenvolvedora de Recife, Pernambuco, atualmente cursando a graduação de Ciência da Computação na UFPE. Sou Jessyca, tenho 18 anos e minha paixão por tecnologia começou aos 11 anos com a descoberta de HTML/CSS, continuou na minha adolescência quando cursei Desenvolvimento de Sistemas integrado ao ensino médio e hoje é firmada cada vez mais ao passar dos dias. Além da programação, tenho como hobbies o desenho, a literatura e o crochê.
+</p>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,angular,python,react,angular,js,html,css,git,github" />
+  </a>
+</div>
 
 ## Contate-me:
 [![E-mail](https://img.shields.io/badge/-Email-fa9e8e?style=for-the-badge&logo=microsoft-outlook&color:FFF)](mailto:ferreirasilvajessyca@gmail.com)
@@ -18,11 +25,7 @@
     <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jessyca-ferreira"/>
 </div>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,angular,python,react,angular,js,html,css,git,github" />
-  </a>
-</div>
+
 
 
 ![snake gif](https://github.com/jessyca-ferreira/jessyca-ferreira/blob/output/github-contribution-grid-snake.svg)
