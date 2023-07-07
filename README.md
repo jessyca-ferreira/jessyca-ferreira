@@ -13,8 +13,17 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fa9e8e?style=for-the-badge&logo=linkedin&color:FFF)](https://www.linkedin.com/in/jessyca-ferreira/)
 
 ## Stats:
-<img align="right" width=50% src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jessyca-ferreira"/>
-<img align="justify" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyca-ferreira&hide_progress=true"/>
+<div align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyca-ferreira&layout=compact"/>
+    <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jessyca-ferreira"/>
+</div>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,angular,python,react,angular,js,html,css,git,github" />
+  </a>
+</div>
+
 
 ![snake gif](https://github.com/jessyca-ferreira/jessyca-ferreira/blob/output/github-contribution-grid-snake.svg)
 
