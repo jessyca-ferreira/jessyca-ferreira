@@ -20,8 +20,3 @@
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyca-ferreira&layout=compact"/>
     <img height="150px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jessyca-ferreira"/>
 </div>
-
-
-
-
-![snake gif](https://github.com/jessyca-ferreira/jessyca-ferreira/blob/output/github-contribution-grid-snake.svg)
