@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F76542FF&height=100&section=header"/>
 
-<p align="justify">Desenvolvedora de Recife, Pernambuco, atualmente cursando a graduação de Ciência da Computação na UFPE. Sou Jessyca, tenho 18 anos e minha paixão por tecnologia começou aos 11 anos com a descoberta de HTML/CSS, continuou na minha adolescência quando cursei Desenvolvimento de Sistemas integrado ao ensino médio e hoje é firmada cada vez mais ao passar dos dias. Além da programação, tenho como hobbies o desenho, a literatura e o crochê.
-</p>
+Estudante de Ciência da Computação com uma base sólida em linguagens de programação como Python, C/C++ e Java, em busca de aprofundar conhecimentos técnicos e explorar novas áreas dentro da tecnologia.</p>
 
 <div align="center">
   <a href="https://skillicons.dev">
