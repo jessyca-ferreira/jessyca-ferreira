@@ -12,6 +12,10 @@ Estudante de Ciência da Computação com uma base sólida em linguagens de prog
 [![E-mail](https://img.shields.io/badge/-Email-fa9e8e?style=for-the-badge&logo=microsoft-outlook&color:FFF)](mailto:ferreirasilvajessyca@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fa9e8e?style=for-the-badge&logo=linkedin&color:FFF)](https://www.linkedin.com/in/jessyca-ferreira/)
 
+<div align="center">
+  https://github-readme-stats.vercel.app/api?username=jessyca-ferreira&show_icons=true&theme=dark)
+</div>
+
 ## Stats:
 <div align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessyca-ferreira&layout=compact"/>
