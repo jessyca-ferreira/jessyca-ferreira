@@ -2,12 +2,6 @@
 
 Estudante de Ciência da Computação com uma base sólida em linguagens de programação como Python, C/C++ e Java, em busca de aprofundar conhecimentos técnicos e explorar novas áreas dentro da tecnologia.</p>
 
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,angular,python,js,html,css,git,github" />
-  </a>
-</div>
-
 ## Contate-me:
 [![E-mail](https://img.shields.io/badge/-Email-fa9e8e?style=for-the-badge&logo=microsoft-outlook&color:FFF)](mailto:ferreirasilvajessyca@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-fa9e8e?style=for-the-badge&logo=linkedin&color:FFF)](https://www.linkedin.com/in/jessyca-ferreira/)
